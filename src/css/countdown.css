@@ -1,0 +1,59 @@
+.countdown {
+    background: linear-gradient(135deg, #006400, #009900);
+    color:white;
+    text-align:center;
+    padding:40px 20px;
+    margin:30px 0;
+}
+
+.countdown h2 {
+    font-size:32px;
+    margin-bottom:25px;
+}
+
+
+.timer {
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+
+.timer div {
+    background:white;
+    color:#006400;
+    width:120px;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+}
+
+
+.timer h1 {
+    font-size:40px;
+    margin:0;
+}
+
+
+.timer p {
+    font-weight:bold;
+    margin-top:5px;
+}
+
+
+@media(max-width:600px){
+
+.timer div {
+    width:90px;
+}
+
+.timer h1 {
+    font-size:30px;
+}
+
+.countdown h2 {
+    font-size:24px;
+}
+
+}

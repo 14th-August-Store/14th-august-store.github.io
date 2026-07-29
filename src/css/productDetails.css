@@ -1,0 +1,148 @@
+.details{
+
+width:90%;
+margin:60px auto;
+
+display:flex;
+gap:50px;
+align-items:center;
+
+}
+
+
+.details img{
+
+width:450px;
+height:450px;
+object-fit:cover;
+border-radius:15px;
+
+}
+
+
+.info h1{
+
+font-size:40px;
+color:#01411C;
+
+}
+
+
+.info h2{
+
+margin:20px 0;
+color:#01411C;
+
+}
+
+
+.info p{
+
+font-size:18px;
+line-height:1.6;
+
+}
+
+
+.info button{
+
+margin-top:25px;
+padding:15px 40px;
+
+background:#01411C;
+color:white;
+
+border:none;
+border-radius:8px;
+
+font-size:18px;
+
+}
+
+/* ========== Tablet ========== */
+@media (max-width: 992px) {
+  .details {
+    gap: 30px;
+  }
+
+  .details img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .info h1 {
+    font-size: 32px;
+  }
+
+  .info h2 {
+    font-size: 24px;
+  }
+
+  .info p {
+    font-size: 16px;
+  }
+}
+
+/* ========== Mobile ========== */
+@media (max-width: 768px) {
+  .details {
+    flex-direction: column;
+    text-align: center;
+    gap: 25px;
+  }
+
+  .details img {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+  }
+
+  .info h1 {
+    font-size: 28px;
+  }
+
+  .info h2 {
+    font-size: 22px;
+  }
+
+  .info p {
+    font-size: 16px;
+  }
+
+  .info button {
+    width: 100%;
+    max-width: 300px;
+    padding: 14px;
+    font-size: 17px;
+  }
+}
+
+/* ========== Small Mobile ========== */
+@media (max-width: 480px) {
+  .details {
+    width: 95%;
+    margin: 40px auto;
+  }
+
+  .details img {
+    max-width: 280px;
+  }
+
+  .info h1 {
+    font-size: 24px;
+  }
+
+  .info h2 {
+    font-size: 20px;
+  }
+
+  .info p {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .info button {
+    font-size: 16px;
+    padding: 12px;
+  }
+}

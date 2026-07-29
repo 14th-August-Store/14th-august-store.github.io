@@ -1,0 +1,19 @@
+await axios.post("/api/orders", {
+
+    customer,
+
+    items,
+
+    totalAmount,
+
+    paymentMethod,
+
+    transactionId,
+
+     paymentScreenshot: req.file
+    ? `uploads/${req.file.filename}`
+    : "",
+
+});
+
+await order.save();
