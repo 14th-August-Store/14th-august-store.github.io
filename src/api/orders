@@ -1,4 +1,5 @@
-await axios.post("/api/orders", {
+import API from "../api/api";
+await API.post("orders", {
 
     customer,
 
