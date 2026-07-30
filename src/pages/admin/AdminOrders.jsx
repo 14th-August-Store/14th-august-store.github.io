@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "../../css/adminOrders.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://server-production-3d329.up.railway.app";
 
 function AdminOrders() {
   const [orders, setOrders] = useState([]);
@@ -198,7 +198,7 @@ function AdminOrders() {
 
                     {order.paymentScreenshot && (
   <img
-    src={`http://localhost:5000/uploads/${order.paymentScreenshot}`}
+    src={`https://server-production-3d329.up.railway.app/uploads/${order.paymentScreenshot}`}
     alt="Payment Screenshot"
     width="250"
   />
