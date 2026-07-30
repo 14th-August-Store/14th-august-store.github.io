@@ -124,7 +124,7 @@ formData.append("longitude", location.lng);
       }
 
       const response = await fetch(
-        "http://localhost:5000/api/orders",
+        "https://server-production-3d329.up.railway.app/api/orders",
         {
           method: "POST",
           body: formData,
