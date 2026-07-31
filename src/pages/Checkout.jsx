@@ -267,7 +267,7 @@ formData.append("longitude", location.lng);
   <option value="Shop Pickup">Shop Pickup</option>
 </select>
 
-{deliveryType === "Shop Pickup" && (
+{deliveryMethod === "Shop Pickup" && (
   <div className="pickup-box">
     <h3>Collect from Our Shop</h3>
 
