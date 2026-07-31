@@ -157,7 +157,7 @@ function AdminOrders() {
   {order.deliveryType || "Home Delivery"}
 </p>
 
-{order.deliveryMethod === "Shop Pickup" && (
+{order.deliveryType === "Shop Pickup" && (
   <div className="pickup-box">
     <p>
       <strong>Customer will collect from shop.</strong>
