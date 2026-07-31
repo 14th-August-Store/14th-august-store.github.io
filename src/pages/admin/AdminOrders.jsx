@@ -154,7 +154,7 @@ function AdminOrders() {
 
 <p>
   <strong>Delivery Method:</strong>{" "}
-  {order.deliveryMethod || "Home Delivery"}
+  {order.deliveryType || "Home Delivery"}
 </p>
 
 {order.deliveryMethod === "Shop Pickup" && (
