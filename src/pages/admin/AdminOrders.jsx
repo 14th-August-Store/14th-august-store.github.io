@@ -146,6 +146,11 @@ function AdminOrders() {
 >
   📍 Open Customer Location
 </a>
+
+            <p>
+  <strong>Address:</strong>{" "}
+  {order.customer?.address}
+</p>
             <hr />
 
             <h3>Ordered Products</h3>
