@@ -146,11 +146,30 @@ function AdminOrders() {
 >
   📍 Open Customer Location
 </a>
+ <hr />
 
-            <p>
-  <strong>Address:</strong>{" "}
-  {order.customer?.address}
+
+
+            <h3>Delivery Information</h3>
+
+<p>
+  <strong>Delivery Method:</strong>{" "}
+  {order.deliveryMethod || "Home Delivery"}
 </p>
+
+{order.deliveryMethod === "Shop Pickup" && (
+  <div className="pickup-box">
+    <p>
+      <strong>Customer will collect from shop.</strong>
+    </p>
+
+    <p>
+      Please confirm order before pickup.
+    </p>
+  </div>
+)}
+
+            
             <hr />
 
             <h3>Ordered Products</h3>
