@@ -105,7 +105,7 @@ const getLocation = () => {
       formData.append("phone", customer.phone);
       formData.append("city", customer.city);
       formData.append("address", customer.address);
-      formData.append("deliveryType", deliveryMethod);
+      formData.append("deliveryMethod", deliveryMethod);
       formData.append("paymentMethod", paymentMethod);
       formData.append("transactionId", transactionId);
       formData.append("latitude", location.lat);
