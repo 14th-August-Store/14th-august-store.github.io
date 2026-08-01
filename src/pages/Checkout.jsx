@@ -155,6 +155,7 @@ formData.append("longitude", location.lng);
           address: "",
         });
 
+        setDeliveryMethod("Home Delivery");
         setPaymentMethod("COD");
         setTransactionId("");
         setPaymentScreenshot(null);
