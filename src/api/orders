@@ -7,7 +7,7 @@ await API.post("orders", {
 
     totalAmount,
 
-    deliveryType,
+    deliveryMethod,
 
     paymentMethod,
 
