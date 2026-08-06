@@ -69,7 +69,7 @@ function Footer() {
           </h3>
 
          
-            <FaMapMarkerAlt /> QAMAR BOOK POINT<br>
+            <FaMapMarkerAlt /> QAMAR BOOK POINT
           Shop 12, Al-Hamra Avenue Opp.Bara Market Sector 5K, North Karachi.
           
 
