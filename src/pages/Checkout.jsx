@@ -272,11 +272,11 @@ formData.append("longitude", location.lng);
   <div className="pickup-box">
     <h3>Collect from Our Shop</h3>
 
-    <p><strong>Shop:</strong> Your Shop Name</p>
+    <p><strong>Shop:</strong> Qamar Book Point</p>
 
-    <p><strong>Address:</strong> Main Bazaar, Lahore</p>
+    <p><strong>Address:</strong> Shop 12, Al-Hamra Avenue Opp.Bara Market Sector 5K, North Karachi</p>
 
-    <p><strong>Phone:</strong> 03XXXXXXXXX</p>
+    <p><strong>Phone:</strong> 0331-3159261</p>
 
     <p>
       Please wait until your order is confirmed before visiting the shop.
@@ -310,7 +310,7 @@ formData.append("longitude", location.lng);
               <strong>Send Payment To:</strong>
             </p>
 
-            <h2>03XXXXXXXXX</h2>
+            <h2>03360868923</h2>
 
             <p>
               <strong>Amount:</strong> Rs.{" "}
