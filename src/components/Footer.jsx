@@ -69,7 +69,8 @@ function Footer() {
           </h3>
 
          
-            <FaMapMarkerAlt /> Qamar Book Point North Karachi.
+            <FaMapMarkerAlt /> QAMAR BOOK POINT<br>
+          Shop 12, Al-Hamra Avenue Opp.Bara Market Sector 5K, North Karachi.
           
 
           <a href="tel:+923312465075"><FaPhoneAlt />    +92 331 2465075</a>
