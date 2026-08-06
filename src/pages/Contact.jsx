@@ -28,7 +28,7 @@ function Contact() {
             <h2>Get In Touch</h2>
 
             <p>
-              <FaMapMarkerAlt /> Karachi, Pakistan
+              <FaMapMarkerAlt /> QAMAR BOOK POINT Shop 12, Al-Hamra Avenue Opp.Bara Market Sector 5K, North Karachi, Pakistan.
             </p>
 
             <p>
@@ -49,7 +49,7 @@ function Contact() {
             <p>
               <FaInstagram />{" "}
               <a
-                href="https://instagram.com/your_username"
+                href="https://instagram.com/qamar_book_point"
                 target="_blank"
                 rel="noreferrer"
               >
