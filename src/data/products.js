@@ -2,7 +2,10 @@ import flag from "../images/flags.jfif";
 import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
 import badge from "../images/badge.webp";
-import baja from "../images/horn.png";
+import horn1 from "../images/horn/minitrumpethorn.jpg";
+import horn2 from "../images/horn/noicemakerhorn.jpg";
+import horn3 from "../images/horn/colorfulhorn.jpg";
+import pump from "../images/horn/balloonpump.jpg";
 import baloons from "../images/baloons.webp";
 import balloons from "../images/balloon.jfif";
 import glasses from "../images/glasses2.webp";
@@ -88,13 +91,28 @@ image:baloons,
 category:"Balloons"
 },
 
+//HORN
 
 {
 id: 8,
-name: "Baja",
+name: "Mini Trumpet",
 price: 150,
-image: baja,
-category:"Baja"
+image: horn1,
+category:"Horn"
+},
+{
+id: 8,
+name: "Noice Maker",
+price: 150,
+image: horn2,
+category:"Horn"
+},
+{
+id: 8,
+name: "Colorfull Horn",
+price: 150,
+image: horn3,
+category:"Horn"
 },
 
 
