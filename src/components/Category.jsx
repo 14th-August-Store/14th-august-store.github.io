@@ -13,7 +13,7 @@ import bracelet from "../images/bracelet.png";
 import earring from "../images/earrings.png";
 import band from "../images/band.webp";
 import mask from "../images/mask.webp"; 
-import headband from "../images/headbands/jevaypakistan.jpg"; 
+import headband from "../images/headbands/dildilpakistan.jpg"; 
 import bangle from "../images/bangles.png";
 import clip from "../images/clips/clips.jpg";
  
