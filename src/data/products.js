@@ -17,7 +17,6 @@ import glasses3 from "../images/glasses.webp";
 import bracelet from "../images/bracelet.png";
 import earring from "../images/earrings.png";
 import band from "../images/band.webp";
-import bangle from "../images/bangles.png";
 import badges from "../images/badge.jpg";
 import badge2 from "../images/badge.jfif";
 import badge3 from "../images/circlebadge.jfif";
@@ -27,8 +26,13 @@ import mask2 from "../images/masks/azontomask.jpg";
 import mask3 from "../images/masks/cartoonfacemask.jpg";
 import mask4 from "../images/masks/masquerademask.jpg";
 
-import churiyan from "../images/bangles.png";
-import churiyan2 from "../images/churiyan2.webp";
+import bangle1 from "../images/bangles/10bangles.jpg";
+import bangle2 from "../images/bangles/12bangles.jpg";
+import bangle3 from "../images/bangles/15bangles.jpg";
+import bangle4 from "../images/bangles/16bangles.jpg";
+import bangle5 from "../images/bangles/18bangles.jpg";
+import bangle6 from "../images/bangles/20bangles.jpg";
+
 import bracelet2 from "../images/bracelet2.webp";
 
 
@@ -152,7 +156,53 @@ image: mask4,
 category:"Masks"
 },
 
+//BANGLES
 
+{
+id:15,
+name:"bangles(10)",
+price:200,
+image:bangle1,
+category:"Bangle"
+},
+{
+id:15,
+name:"bangles(12)",
+price:200,
+image:bangle2,
+category:"Bangle"
+},
+{
+id:15,
+name:"bangles(15)",
+price:200,
+image:bangle3,
+category:"Bangle"
+},
+{
+id:15,
+name:"bangles(16)",
+price:200,
+image:bangle4,
+category:"Bangle"
+},
+{
+id:15,
+name:"bangles(18)",
+price:200,
+image:bangle5,
+category:"Bangle"
+},
+{
+id:15,
+name:"bangles(20)",
+price:200,
+image:bangle6,
+category:"Bangle"
+},
+
+
+  
   
 {
 id: 9,
@@ -178,13 +228,6 @@ image: bangle,
 category:"Bands"
 },
 
-{
-id: 13,
-name: "churiyan",
-price: 150,
-image: churiyan,
-category:"Churiyan"
-},
 
 {
 id: 14,
@@ -216,13 +259,6 @@ image:glasses3,
 category:"Glasses"
 },
 
-{
-id: 20,
-name: "churiyan",
-price: 150,
-image: churiyan2,
-category:"Churiyan"
-},
 
 {
 id: 21,
