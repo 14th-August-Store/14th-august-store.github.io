@@ -1,22 +1,23 @@
 import flag from "../images/flags.jfif";
 import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
-import badge from "../images/badge.webp";
+import glasses3 from "../images/glasses.webp";
+import glasses from "../images/glasses2.webp";
+import glasses2 from "../images/glasses3.png";
+import bracelet from "../images/bracelet.png";
+import bracelet2 from "../images/bracelet2.webp";
+import baloons from "../images/baloons.webp";
+import balloons from "../images/balloon.jfif";
+
+import earring from "../images/earrings.png";
+import band from "../images/band.webp";
+
 
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
 
 import pump from "../images/horn/balloonpump.jpg";
-
-import baloons from "../images/baloons.webp";
-import balloons from "../images/balloon.jfif";
-import glasses from "../images/glasses2.webp";
-import glasses2 from "../images/glasses3.png";
-import glasses3 from "../images/glasses.webp";
-import bracelet from "../images/bracelet.png";
-import earring from "../images/earrings.png";
-import band from "../images/band.webp";
 
 import badge1 from "../images/badges/fancybadge.jpg";
 import badge2 from "../images/badges/flagbadge.jpg";
@@ -38,7 +39,6 @@ import bangle4 from "../images/bangles/16bangles.jpg";
 import bangle5 from "../images/bangles/18bangles.jpg";
 import bangle6 from "../images/bangles/20bangles.jpg";
 
-import bracelet2 from "../images/bracelet2.webp";
 
 
 
@@ -266,22 +266,6 @@ image: band,
 category:"Bands"
 },
 
-{
-id: 11,
-name: "Bangle",
-price: 150,
-image: bangle,
-category:"Bands"
-},
-
-
-{
-id:15,
-name:"Bracelet",
-price:200,
-image:bracelet2,
-category:"Bracelets"
-},
 
 {id:16,
 name:"14th August Glasses",
