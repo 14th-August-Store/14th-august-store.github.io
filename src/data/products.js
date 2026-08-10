@@ -2,10 +2,13 @@ import flag from "../images/flags.jfif";
 import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
 import badge from "../images/badge.webp";
+
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
+
 import pump from "../images/horn/balloonpump.jpg";
+
 import baloons from "../images/baloons.webp";
 import balloons from "../images/balloon.jfif";
 import glasses from "../images/glasses2.webp";
@@ -18,9 +21,12 @@ import bangle from "../images/bangles.png";
 import badges from "../images/badge.jpg";
 import badge2 from "../images/badge.jfif";
 import badge3 from "../images/circlebadge.jfif";
-import mask from "../images/mask.webp";
-import mask2 from "../images/mask2.webp";
-import mask3 from "../images/mask3.webp";
+
+import mask1 from "../images/masks/14augustmask.jpg";
+import mask2 from "../images/masks/azontomask.jpg";
+import mask3 from "../images/masks/cartoonfacemask.jpg";
+import mask4 from "../images/masks/masquerademask.jpg";
+
 import churiyan from "../images/bangles.png";
 import churiyan2 from "../images/churiyan2.webp";
 import bracelet2 from "../images/bracelet2.webp";
@@ -115,7 +121,39 @@ image: horn3,
 category:"Horn"
 },
 
+//MASKS
 
+{
+id: 19,
+name: "14th August Mask",
+price: 150,
+image: mask1,
+category:"Masks"
+},
+{
+id: 19,
+name: "Azonto Mask",
+price: 150,
+image: mask2,
+category:"Masks"
+},
+{
+id: 19,
+name: "Cartoon Face Mask",
+price: 150,
+image: mask3,
+category:"Masks"
+},
+{
+id: 19,
+name: "Masquerade Mask",
+price: 150,
+image: mask4,
+category:"Masks"
+},
+
+
+  
 {
 id: 9,
 name: "Ear Rings",
