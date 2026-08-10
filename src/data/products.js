@@ -17,9 +17,14 @@ import glasses3 from "../images/glasses.webp";
 import bracelet from "../images/bracelet.png";
 import earring from "../images/earrings.png";
 import band from "../images/band.webp";
-import badges from "../images/badge.jpg";
-import badge2 from "../images/badge.jfif";
-import badge3 from "../images/circlebadge.jfif";
+
+import badge1 from "../images/badges/fancybadge.jpg";
+import badge2 from "../images/badges/flagbadge.jpg";
+import badge3 from "../images/badges/curlybadge.jpg";
+import badge4 from "../images/badges/badge.jpg";
+import badge5 from "../images/badges/rubberbadge.jpg";
+import badge6 from "../images/badges/pakistanbadge.jpg";
+import badge7 from "../images/badges/lightbadge.mp4";
 
 import mask1 from "../images/masks/14augustmask.jpg";
 import mask2 from "../images/masks/azontomask.jpg";
@@ -57,7 +62,6 @@ image:tshirt,
 category:"T-Shirts"
 },
 
-
 {
 id:3,
 name:"Green Cap",
@@ -66,23 +70,12 @@ image:cap,
 category:"Caps"
 },
 
-
-{
-id: 4,
-name: "Pakistan Badge",
-price: 150,
-image: badge,
-category:"Badges"
-},
-
-
 {id:5,
 name:"14th August Glasses",
 price:300,
 image:glasses,
 category:"Glasses"
 },
-
 
 {
 id:6,
@@ -125,6 +118,59 @@ image: horn3,
 category:"Horn"
 },
 
+//BADGE
+
+{
+id: 4,
+name: "Fancy Badge",
+price: 150,
+image: badge1,
+category:"Badges"
+},
+{
+id: 4,
+name: "Flag Badge",
+price: 150,
+image: badge2,
+category:"Badges"
+},
+{
+id: 4,
+name: "Curly Badge",
+price: 150,
+image: badge3,
+category:"Badges"
+},
+{
+id: 4,
+name: "Badge",
+price: 150,
+image: badge4,
+category:"Badges"
+},
+{
+id: 4,
+name: "Pakistan Badge",
+price: 150,
+image: badge5,
+category:"Badges"
+},
+{
+id: 4,
+name: "LED Badge",
+price: 150,
+image: badge6,
+category:"Badges"
+},
+{
+id: 4,
+name: "LED Badge",
+price: 150,
+image: badge7,
+category:"Badges"
+},
+
+
 //MASKS
 
 {
@@ -160,42 +206,42 @@ category:"Masks"
 
 {
 id:15,
-name:"bangles(10)",
+name:"14th August Bangles(10)",
 price:200,
 image:bangle1,
 category:"Bangle"
 },
 {
 id:15,
-name:"bangles(12)",
+name:"14th August Bangles(12)",
 price:200,
 image:bangle2,
 category:"Bangle"
 },
 {
 id:15,
-name:"bangles(15)",
+name:"14th August Bangles(15)",
 price:200,
 image:bangle3,
 category:"Bangle"
 },
 {
 id:15,
-name:"bangles(16)",
+name:"14th August Bangles(16)",
 price:200,
 image:bangle4,
 category:"Bangle"
 },
 {
 id:15,
-name:"bangles(18)",
+name:"14th August Bangles(18)",
 price:200,
 image:bangle5,
 category:"Bangle"
 },
 {
 id:15,
-name:"bangles(20)",
+name:"14th August Bangles(20)",
 price:200,
 image:bangle6,
 category:"Bangle"
@@ -230,14 +276,6 @@ category:"Bands"
 
 
 {
-id: 14,
-name: "Badge",
-price: 150,
-image: badges,
-category:"Badges"
-},
-
-{
 id:15,
 name:"Bracelet",
 price:200,
@@ -260,21 +298,7 @@ category:"Glasses"
 },
 
 
-{
-id: 21,
-name: "Pakistan Badge",
-price: 150,
-image: badge2,
-category:"Badges"
-},
 
-{
-id: 21,
-name: "Pakistan Badge",
-price: 150,
-image: badge3,
-category:"Badges"
-},
 
 {
 id:7,
