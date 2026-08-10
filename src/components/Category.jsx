@@ -2,9 +2,9 @@ import { useState } from "react";
 import Products from "../components/Products";
 import "../css/home.css";
  
-import flag from "../images/flag.jpg";
+import flag from "../images/flags.jfif";
 import tshirt from "../images/tshirt.jpg";
-import cap from "../images/cap.jpg";
+import cap from "../images/caps.jpg";
 import badge from "../images/circlebadge.jfif";
 import baja from "../images/baja.webp";
 import baloons from "../images/baloons.webp";
@@ -13,7 +13,7 @@ import bracelet from "../images/bracelet.png";
 import earring from "../images/earrings.png";
 import band from "../images/band.webp";
 import mask from "../images/mask.webp"; 
-import churiyan from "../images/churiyan.webp";
+import bangle from "../images/bangles.jpg";
  
  function Category() {
      const [selectedCategory, setSelectedCategory] = useState("");
@@ -68,7 +68,7 @@ import churiyan from "../images/churiyan.webp";
     },
      {
       name: "Churiyan",
-      image: churiyan,
+      image: bangle,
     }
   ];
 
