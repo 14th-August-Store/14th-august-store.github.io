@@ -13,7 +13,7 @@ import bracelet from "../images/bracelet.png";
 import earring from "../images/earrings.png";
 import band from "../images/band.webp";
 import mask from "../images/mask.webp"; 
-import bangle from "../images/bangles.jpg";
+import bangle from "../images/bangles.png";
  
  function Category() {
      const [selectedCategory, setSelectedCategory] = useState("");
