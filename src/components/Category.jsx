@@ -14,6 +14,7 @@ import earring from "../images/earrings.png";
 import band from "../images/band.webp";
 import mask from "../images/mask.webp"; 
 import bangle from "../images/bangles.png";
+import clip from "../images/clips/clips.jpg";
  
  function Category() {
      const [selectedCategory, setSelectedCategory] = useState("");
@@ -58,10 +59,7 @@ import bangle from "../images/bangles.png";
       name: "Horn",
       image: horn,
     },
-    {
-      name: "Glasses",
-      image: glasses,
-    },
+   
     {
       name: "Masks",
       image: mask,
@@ -69,6 +67,14 @@ import bangle from "../images/bangles.png";
      {
       name: "Bangles",
       image: bangle,
+    },
+        {
+      name: "Clips",
+      image: clip,
+    },
+      {
+      name: "Glasses",
+      image: glasses,
     }
   ];
 
