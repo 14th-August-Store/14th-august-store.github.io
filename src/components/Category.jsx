@@ -67,7 +67,7 @@ import bangle from "../images/bangles.png";
       image: mask,
     },
      {
-      name: "Churiyan",
+      name: "Bangles",
       image: bangle,
     }
   ];
