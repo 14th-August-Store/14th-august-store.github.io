@@ -209,42 +209,42 @@ id:15,
 name:"14th August Bangles(10)",
 price:200,
 image:bangle1,
-category:"Bangle"
+category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(12)",
 price:200,
 image:bangle2,
-category:"Bangle"
+category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(15)",
 price:200,
 image:bangle3,
-category:"Bangle"
+category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(16)",
 price:200,
 image:bangle4,
-category:"Bangle"
+category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(18)",
 price:200,
 image:bangle5,
-category:"Bangle"
+category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(20)",
 price:200,
 image:bangle6,
-category:"Bangle"
+category:"Bangles"
 },
 
 
