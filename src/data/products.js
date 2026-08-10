@@ -30,6 +30,11 @@ import mask2 from "../images/masks/azontomask.jpg";
 import mask3 from "../images/masks/cartoonfacemask.jpg";
 import mask4 from "../images/masks/masquerademask.jpg";
 
+import headband1 from "../images/headbands/dildilpakistan.jpg";
+import headband2 from "../images/headbands/jevaypakistan.jpg";
+import headband3 from "../images/headbands/salampakistan.jpg";
+import headband4 from "../images/headbands/pakistan.jpg";
+
 import bangle1 from "../images/bangles/10bangles.jpg";
 import bangle2 from "../images/bangles/12bangles.jpg";
 import bangle3 from "../images/bangles/15bangles.jpg";
@@ -41,6 +46,7 @@ import clip1 from "../images/clips/clips.jpg";
 import clip2 from "../images/clips/greenandwhiteclips.jpg";
 import clip3 from "../images/clips/flowerclips.jpg";
 import clip4 from "../images/clips/glitterclips.jpg";
+
 
 
 
@@ -197,6 +203,38 @@ image: mask4,
 category:"Masks"
 },
 
+//HEADBANDS
+
+{
+id:15,
+name:"Dil Dil Pakistan Band",
+price:200,
+image:headband1,
+category:"Head Band"
+},
+{
+id:15,
+name:"Jevay Pakistan Band",
+price:200,
+image:headband2,
+category:"Head Band"
+},
+  {
+id:15,
+name:"Salam Pakistan Band",
+price:200,
+image:headband3,
+category:"Head Band"
+},
+  {
+id:15,
+name:"Pakistan Band",
+price:200,
+image:headband4,
+category:"Head Band"
+},
+
+  
 //BANGLES
 
 {
@@ -291,24 +329,6 @@ image: band,
 category:"Bands"
 },
 
-
-{id:16,
-name:"14th August Glasses",
-price:300,
-image:glasses2,
-category:"Glasses"
-},
-
-{id:17,
-name:"14th August Glasses",
-price:300,
-image:glasses3,
-category:"Glasses"
-},
-
-
-
-
 {
 id:7,
 name:"Balloons",
@@ -317,6 +337,17 @@ image:balloons,
 category:"Balloons"
 },
 
+{id:16,
+name:"14th August Glasses",
+price:300,
+image:glasses2,
+category:"Glasses"},
+
+{id:17,
+name:"14th August Glasses",
+price:300,
+image:glasses3,
+category:"Glasses"},   
 ];
 
 export default products;
