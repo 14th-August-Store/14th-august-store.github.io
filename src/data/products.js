@@ -179,14 +179,6 @@ category:"Bands"
 },
 
 {
-id: 12,
-name: "Mask",
-price: 150,
-image: mask,
-category:"Masks"
-},
-
-{
 id: 13,
 name: "churiyan",
 price: 150,
@@ -222,22 +214,6 @@ name:"14th August Glasses",
 price:300,
 image:glasses3,
 category:"Glasses"
-},
-
-{
-id: 18,
-name: " Fancy Mask",
-price: 150,
-image: mask2,
-category:"Masks"
-},
-
-{
-id: 19,
-name: "Face Mask",
-price: 150,
-image: mask3,
-category:"Masks"
 },
 
 {
