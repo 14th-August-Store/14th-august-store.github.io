@@ -210,28 +210,28 @@ id:15,
 name:"Dil Dil Pakistan Band",
 price:200,
 image:headband1,
-category:"Head Band"
+category:"Head Bands"
 },
 {
 id:15,
 name:"Jevay Pakistan Band",
 price:200,
 image:headband2,
-category:"Head Band"
+category:"Head Bands"
 },
   {
 id:15,
 name:"Salam Pakistan Band",
 price:200,
 image:headband3,
-category:"Head Band"
+category:"Head Bands"
 },
   {
 id:15,
 name:"Pakistan Band",
 price:200,
 image:headband4,
-category:"Head Band"
+category:"Head Bands"
 },
 
   
