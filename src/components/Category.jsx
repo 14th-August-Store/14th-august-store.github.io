@@ -6,7 +6,7 @@ import flag from "../images/flags.jfif";
 import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
 import badge from "../images/circlebadge.jfif";
-import baja from "../images/baja.webp";
+import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
 import glasses from "../images/glasses3.png";
 import bracelet from "../images/bracelet.png";
@@ -55,8 +55,8 @@ import bangle from "../images/bangles.png";
     },
 
     {
-      name: "Baja",
-      image: baja,
+      name: "Horn",
+      image: horn,
     },
     {
       name: "Glasses",
