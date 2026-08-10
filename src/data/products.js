@@ -8,7 +8,6 @@ import bracelet from "../images/bracelet.png";
 import bracelet2 from "../images/bracelet2.webp";
 import baloons from "../images/baloons.webp";
 import balloons from "../images/balloon.jfif";
-
 import earring from "../images/earrings.png";
 import band from "../images/band.webp";
 
@@ -17,8 +16,6 @@ import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
 
-import pump from "../images/horn/balloonpump.jpg";
-
 import badge1 from "../images/badges/fancybadge.jpg";
 import badge2 from "../images/badges/flagbadge.jpg";
 import badge3 from "../images/badges/curlybadge.jpg";
@@ -26,6 +23,7 @@ import badge4 from "../images/badges/badge.jpg";
 import badge5 from "../images/badges/rubberbadge.jpg";
 import badge6 from "../images/badges/pakistanbadge.jpg";
 
+import pump from "../images/horn/balloonpump.jpg";
 
 import mask1 from "../images/masks/14augustmask.jpg";
 import mask2 from "../images/masks/azontomask.jpg";
@@ -39,7 +37,10 @@ import bangle4 from "../images/bangles/16bangles.jpg";
 import bangle5 from "../images/bangles/18bangles.jpg";
 import bangle6 from "../images/bangles/20bangles.jpg";
 
-
+import clip1 from "../images/clips/clips.jpg";
+import clip2 from "../images/clips/greenandwhiteclips.jpg";
+import clip3 from "../images/clips/flowerclips.jpg";
+import clip4 from "../images/clips/glitterclips.jpg";
 
 
 
@@ -241,8 +242,38 @@ image:bangle6,
 category:"Bangles"
 },
 
-
+//CLIPS
   
+{
+id: 9,
+name: "14th August Clips",
+price: 150,
+image: clip1,
+category:"Clips"
+},
+{
+id: 9,
+name: "Green And White Clips",
+price: 150,
+image: clip2,
+category:"Clips"
+},
+{
+id: 9,
+name: "Flower Clips",
+price: 150,
+image: clip3,
+category:"Clips"
+},
+  {
+id: 9,
+name: "Glitter Clips",
+price: 150,
+image: clip4,
+category:"Clips"
+},
+
+
   
 {
 id: 9,
