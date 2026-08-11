@@ -17,7 +17,7 @@ import bangle from "../images/bangles.png";
 import nail from "../images/nail.jpeg";
 import ring from "../images/ring.jpeg";
 import clip from "../images/clip.jfif";
-import poni from "../images/hairtie.jpeg";
+import poni from "../images/hairtie.jfif";
 import sticker from "../images/sticker.jpeg";
 import glitter from "../images/sheets/glitterbottle.jpg";
 
