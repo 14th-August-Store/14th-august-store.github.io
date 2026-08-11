@@ -199,21 +199,21 @@ id: 8,
 name: "Flag Wrist Band",
 price: 150,
 image: wristband1,
-category:"Flag Band"
+category:"Flag Band and Sleeves"
 },
 {
 id: 8,
 name: "Flag Cup Band",
 price: 150,
 image: wristband2,
-category:"Flag Band"
+category:"Flag Band and Sleeves"
 },
 {
 id: 8,
 name: "14th August Sleeves",
 price: 150,
 image: sleeves,
-category:"Flag Band"
+category:"Flag Band and Sleeves"
 },
 
   
