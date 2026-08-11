@@ -5,7 +5,6 @@ import glasses from "../images/glasses2.webp";
 import glasses2 from "../images/glasses3.png";
 import bracelet from "../images/bracelet.png";
 import bracelet2 from "../images/bracelet2.webp";
-import baloons from "../images/baloons.webp";
 import balloons from "../images/balloon.jfif";
 import earring from "../images/earrings.png";
 
@@ -94,15 +93,6 @@ name:"Bracelet",
 price:200,
 image:bracelet,
 category:"Bracelets"
-},
-
-
-{
-id:7,
-name:"Balloons",
-price:700,
-image:baloons,
-category:"Balloons"
 },
 
 
