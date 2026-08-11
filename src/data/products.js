@@ -68,7 +68,7 @@ import glitter from "../images/sheets/glitterbottle.jpg";
 import clay from "../images/sheets/clay.jpg";
 import sheet1 from "../images/sheets/silverglittersheet.jpg";
 import sheet2 from "../images/sheets/greenglittersheet.jpg";
-import sheet2 from "../images/sheets/whiteglittersheet.jpg";
+import sheet3 from "../images/sheets/whiteglittersheet.jpg";
 
 
 
