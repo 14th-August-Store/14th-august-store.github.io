@@ -54,6 +54,9 @@ import bangle6 from "../images/bangles/20bangles.jpg";
 import nail1 from "../images/nails/nails.jpg";
 import nail2 from "../images/nails/nailpolish.jpg";
 
+import ring from "../images/ringsandcatcher/rings.jpg";
+import catcher from "../images/ringsandcatcher/haircatcher.jpg";
+
 import clip1 from "../images/clips/clips.jpg";
 import clip2 from "../images/clips/greenandwhiteclips.jpg";
 import clip3 from "../images/clips/flowerclips.jpg";
@@ -396,6 +399,23 @@ name:"14th August Nail Polish",
 price:200,
 image:nail2,
 category:"Nails And Nail Polish"
+},
+
+//RINGS AND CATCHER
+
+{
+id:15,
+name:"14th August Rings",
+price:200,
+image:ring,
+category:"Rings And Catcher"
+},
+{
+id:15,
+name:"14th August Hair Catcher",
+price:200,
+image:catcher,
+category:"Rings And Catcher"
 },
   
 //CLIPS
