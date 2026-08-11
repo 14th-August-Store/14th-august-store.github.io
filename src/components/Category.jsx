@@ -8,7 +8,7 @@ import badge from "../images/circlebadge.jfif";
 import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
 import glasses from "../images/glasses3.png";
-import bracelet from "../images/bracelet.png";
+import bracelet from "../images/bracelet2.webp";
 import band from "../images/band.webp";
 import mask from "../images/mask.webp"; 
 import headband from "../images/headbands/jevaypakistan.jpg"; 
