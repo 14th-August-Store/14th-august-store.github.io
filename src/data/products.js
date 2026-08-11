@@ -209,7 +209,7 @@ category:"Flag Band"
 },
 {
 id: 8,
-name: "14yh August Sleeves",
+name: "14th August Sleeves",
 price: 150,
 image: sleeves,
 category:"Flag Band"
