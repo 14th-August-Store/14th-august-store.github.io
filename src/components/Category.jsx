@@ -64,10 +64,6 @@ import glitter from "../images/sheets/glitterbottle.jpg";
       name: "Bangles",
       image: bangle,
     },
-       {
-      name: "Bracelets",
-      image: bracelet,
-    },
 
            {
       name: "Nails And Nail Polish",
