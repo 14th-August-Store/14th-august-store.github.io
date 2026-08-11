@@ -45,7 +45,7 @@ import glitter from "../images/sheets/glitterbottle.jpg";
       image: wristlet,
     },
           {
-      name: "Flag Band",
+      name: "Flag Band and Sleeves",
       image: wristband,
     },
 
