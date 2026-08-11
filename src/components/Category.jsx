@@ -16,7 +16,7 @@ import top from "../images/tops/14augusttops.jpg";
 import bangle from "../images/bangles.png";
 import nail from "../images/nails/nailpolish.jpg";
 import ring from "../images/ringsandcatcher/rings.jpg";
-import clip from "../images/clips/clips.jpg";
+import clip from "../images/clip.jfif";
 import poni from "../images/poni/hairtie.jpg";
 import sticker from "../images/stickers/dildilpakistansticker.jpg";
 import glitter from "../images/sheets/glitterbottle.jpg";
