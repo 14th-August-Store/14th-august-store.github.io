@@ -68,6 +68,12 @@ import poni2 from "../images/poni/flowerhairtie.jpg";
 import sticker1 from "../images/stickers/dildilpakistansticker.jpg";
 import sticker2 from "../images/stickers/jeevaypakistansticker.jpg";
 
+import glitter from "../images/sheets/glitterbottle.jpg";
+import clay from "../images/sheets/clay.jpg";
+import sheet1 from "../images/sheets/silverglittersheet.jpg";
+import sheet2 from "../images/sheets/greenglittersheet.jpg";
+import sheet2 from "../images/sheets/whiteglittersheet.jpg";
+
 
 
 
@@ -483,8 +489,43 @@ image: sticker2,
 category:"Stickers"
 },
 
+//SHEETS
 
-
+{
+id: 9,
+name: "14th August Glitter Bottle",
+price: 150,
+image: glitter,
+category:"Clay, Glitters And Sheets"
+},
+{
+id: 9,
+name: "14th August Clay",
+price: 150,
+image: clay,
+category:"Clay, Glitters And Sheets"
+},
+{
+id: 9,
+name: "Silver Glitter Sheet",
+price: 150,
+image: sheet1,
+category:"Clay, Glitters And Sheets"
+},
+{
+id: 9,
+name: "Green Glitter Sheet",
+price: 150,
+image: sheet2,
+category:"Clay, Glitters And Sheets"
+},
+{
+id: 9,
+name: "White Glitter Sheet",
+price: 150,
+image: sheet3,
+category:"Clay, Glitters And Sheets"
+},
 
 
 {
