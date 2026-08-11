@@ -16,6 +16,7 @@ import mask from "../images/mask.webp";
 import headband from "../images/headbands/jevaypakistan.jpg"; 
 import bangle from "../images/bangles.png";
 import clip from "../images/clips/clips.jpg";
+import poni from "../images/poni/hairtie.jpg";
 import sticker from "../images/stickers/dildilpakistansticker.jpg";
  
  function Category() {
@@ -79,7 +80,11 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
       name: "Clips",
       image: clip,
     },
-           {
+     {
+      name: "Hair Tie",
+      image: poni,
+    },
+    {
       name: "Stickers",
       image: sticker,
     },
