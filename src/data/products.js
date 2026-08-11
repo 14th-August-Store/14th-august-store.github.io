@@ -13,7 +13,7 @@ import band4 from "../images/band/wristband.jpg";
 import band5 from "../images/band/lightgreenband.jpg";
 
 import wristlet1 from "../images/wristlet/wristlet.jpg";
-import wristlet2 from "../images/wristlet/14augustband.jpg";
+import wristlet2 from "../images/wristlet/14thaugustband.jpg";
 import wristlet3 from "../images/wristlet/greenandwhiteband.jpg";
 import wristlet4 from "../images/wristlet/greenband.jpg";
 
@@ -522,6 +522,13 @@ price:700,
 image:balloons,
 category:"Balloons"
 }, 
+{
+id: 8,
+name: "Balloon Pump",
+price: 150,
+image: pump,
+category:"Balloons"
+},
 ];
 
 export default products;
