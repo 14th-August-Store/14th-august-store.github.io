@@ -9,6 +9,7 @@ import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
 import band from "../images/band.webp";
 import wristlet from "../images/wristlet/wristlet.jpg";
+import wristband from "../images/wristband/wristband.jpg";
 import mask from "../images/mask.webp"; 
 import headband from "../images/headbands/jevaypakistan.jpg"; 
 import bangle from "../images/bangles.png";
@@ -41,6 +42,10 @@ import glitter from "../images/sheets/glitterbottle.jpg";
        {
       name: "Wristlet",
       image: wristlet,
+    },
+          {
+      name: "Wrist Band",
+      image: wristband,
     },
 
     {
