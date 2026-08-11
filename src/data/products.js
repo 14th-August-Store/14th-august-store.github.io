@@ -17,6 +17,9 @@ import wristlet2 from "../images/wristlet/14thaugustband.jpg";
 import wristlet3 from "../images/wristlet/greenandwhiteband.jpg";
 import wristlet4 from "../images/wristlet/greenband.jpg";
 
+import wristband1 from "../images/wristband/wristband.jpg";
+import wristband2 from "../images/wristband/flagcup.jpg";
+
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
@@ -183,6 +186,22 @@ image: wristlet4,
 category:"Wristlet"
 },
 
+//WRIST BAND 
+
+{
+id: 8,
+name: "Flag Wrist Band",
+price: 150,
+image: wristband1,
+category:"Flag Band"
+},
+{
+id: 8,
+name: "Flag Cup Band",
+price: 150,
+image: wristband2,
+category:"Flag Band"
+},
   
 //HORN
 
@@ -331,7 +350,6 @@ image:headband4,
 category:"Head Bands"
 },
 
-  
 //BANGLES
 
 {
