@@ -15,7 +15,7 @@ import headband from "../images/headband.jpeg";
 import top from "../images/tops.jfif";
 import bangle from "../images/bangles.png";
 import nail from "../images/nail.jpeg";
-import ring from "../images/ring.jpeg";
+import ring from "../images/ring.jfif";
 import clip from "../images/clip.jfif";
 import poni from "../images/hairtie.jfif";
 import sticker from "../images/sticker.jpeg";
