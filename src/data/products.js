@@ -1,4 +1,3 @@
-import flag from "../images/flags.jfif";
 import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
 import glasses3 from "../images/glasses.webp";
@@ -9,6 +8,11 @@ import bracelet2 from "../images/bracelet2.webp";
 import baloons from "../images/baloons.webp";
 import balloons from "../images/balloon.jfif";
 import earring from "../images/earrings.png";
+
+import flag1 from "../images/flags/hangingflagbanner.jpg";
+import flag2 from "../images/flags/bikeflag.jpg";
+import flag3 from "../images/flags/jhandiyan.jpg";
+import flag4 from "../images/flags/whiterope.jpg";
 
 import band1 from "../images/band/ilovepakistanband.jpg";
 import band2 from "../images/band/darkgreenwristband.jpg";
@@ -60,16 +64,7 @@ import sticker2 from "../images/stickers/jeevaypakistansticker.jpg";
 
 
 const products = [
-
-{
-id:1,
-name:"Pakistan Flag",
-price:500,
-image:flag,
-category:"Flags"
-},
-
-
+  
 {
 id:2,
 name:"14 August T-Shirt",
@@ -110,6 +105,38 @@ image:baloons,
 category:"Balloons"
 },
 
+
+//FLAGS
+
+{
+id:1,
+name:"Hanging Flag Banner(Jhandiyan)",
+price:500,
+image:flag1,
+category:"Flags"
+},
+{
+id:1,
+name:"Bike Flag",
+price:500,
+image:flag2,
+category:"Flags"
+},
+{
+id:1,
+name:"Hanging Flag(Jhandiyan)",
+price:500,
+image:flag3,
+category:"Flags"
+},
+{
+id:1,
+name:"White Rope For Jhandiyan",
+price:500,
+image:flag4,
+category:"Flags"
+},
+  
 //WRIST BANDS
 
 {
