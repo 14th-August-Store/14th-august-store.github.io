@@ -15,6 +15,7 @@ import mask from "../images/mask.webp";
 import headband from "../images/headbands/jevaypakistan.jpg"; 
 import bangle from "../images/bangles.png";
 import nail from "../images/nails/nailpolish.jpg";
+import ring from "../images/ringsandcatcher/rings.jpg";
 import clip from "../images/clips/clips.jpg";
 import poni from "../images/poni/hairtie.jpg";
 import sticker from "../images/stickers/dildilpakistansticker.jpg";
@@ -71,6 +72,10 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
            {
       name: "Nails And Nail Polish",
       image: nail,
+    },
+           {
+      name: "Rings And Catcher",
+      image: ring,
     },
         {
       name: "Clips",
