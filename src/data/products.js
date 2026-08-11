@@ -51,6 +51,9 @@ import bangle4 from "../images/bangles/16bangles.jpg";
 import bangle5 from "../images/bangles/18bangles.jpg";
 import bangle6 from "../images/bangles/20bangles.jpg";
 
+import nail1 from "../images/nails/nails.jpg";
+import nail2 from "../images/nails/nailpolish.jpg";
+
 import clip1 from "../images/clips/clips.jpg";
 import clip2 from "../images/clips/greenandwhiteclips.jpg";
 import clip3 from "../images/clips/flowerclips.jpg";
@@ -378,6 +381,23 @@ image:bangle6,
 category:"Bangles"
 },
 
+//NAILS
+
+{
+id:15,
+name:"14th August Nails",
+price:200,
+image:nail1,
+category:"Nails And Nail Polish"
+},
+{
+id:15,
+name:"14th August Nail Polish",
+price:200,
+image:nail2,
+category:"Nails And Nail Polish"
+},
+  
 //CLIPS
   
 {
