@@ -47,6 +47,9 @@ import clip2 from "../images/clips/greenandwhiteclips.jpg";
 import clip3 from "../images/clips/flowerclips.jpg";
 import clip4 from "../images/clips/glitterclips.jpg";
 
+import sticker1 from "../images/stickers/dildilpakistansticker.jpg";
+import sticker2 from "../images/stickers/jeevaypakistansticker.jpg";
+
 
 
 
@@ -303,13 +306,31 @@ price: 150,
 image: clip3,
 category:"Clips"
 },
-  {
+{
 id: 9,
 name: "Glitter Clips",
 price: 150,
 image: clip4,
 category:"Clips"
 },
+
+//STICKERS
+
+{
+id: 9,
+name: "Dil Dil Pakistan Sticker",
+price: 150,
+image: sticker1,
+category:"Stickers"
+},
+{
+id: 9,
+name: "Jevay Pakistan Sticker",
+price: 150,
+image: sticker2,
+category:"Stickers"
+},
+
 
 
   
