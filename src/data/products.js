@@ -25,6 +25,7 @@ import wristlet4 from "../images/wristlet/greenband.jpg";
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
+import horn4 from "../images/horn/whistle.jpg";
 import pump from "../images/horn/balloonpump.jpg";
 
 import badge1 from "../images/badges/fancybadge.jpg";
@@ -225,6 +226,13 @@ id: 8,
 name: "Colorfull Horn",
 price: 150,
 image: horn3,
+category:"Horn"
+},
+{
+id: 8,
+name: "14th August Whistle",
+price: 150,
+image: horn4,
 category:"Horn"
 },
 {
