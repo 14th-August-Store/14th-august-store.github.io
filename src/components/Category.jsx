@@ -11,7 +11,8 @@ import band from "../images/band.webp";
 import wristlet from "../images/wristlet/wristlet.jpg";
 import wristband from "../images/wristband/wristband.jpg";
 import mask from "../images/mask.webp"; 
-import headband from "../images/headbands/jevaypakistan.jpg"; 
+import headband from "../images/headbands/jevaypakistan.jpg";
+import top from "../images/tops/14augusttops.jpg";
 import bangle from "../images/bangles.png";
 import nail from "../images/nails/nailpolish.jpg";
 import ring from "../images/ringsandcatcher/rings.jpg";
@@ -64,6 +65,10 @@ import glitter from "../images/sheets/glitterbottle.jpg";
    {
       name: "Head Bands",
       image: headband,
+    },
+      {
+      name: "Ear Pins",
+      image: top,
     },
      {
       name: "Bangles",
