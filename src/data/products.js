@@ -15,6 +15,7 @@ import band from "../images/band.webp";
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
+import pump from "../images/horn/balloonpump.jpg";
 
 import badge1 from "../images/badges/fancybadge.jpg";
 import badge2 from "../images/badges/flagbadge.jpg";
@@ -22,8 +23,6 @@ import badge3 from "../images/badges/curlybadge.jpg";
 import badge4 from "../images/badges/badge.jpg";
 import badge5 from "../images/badges/rubberbadge.jpg";
 import badge6 from "../images/badges/pakistanbadge.jpg";
-
-import pump from "../images/horn/balloonpump.jpg";
 
 import mask1 from "../images/masks/14augustmask.jpg";
 import mask2 from "../images/masks/azontomask.jpg";
@@ -128,6 +127,13 @@ id: 8,
 name: "Colorfull Horn",
 price: 150,
 image: horn3,
+category:"Horn"
+},
+{
+id: 8,
+name: "Balloon Pump",
+price: 150,
+image: pump,
 category:"Horn"
 },
 
