@@ -1,6 +1,4 @@
 import cap from "../images/caps.jpg";
-import bracelet from "../images/bracelet.png";
-import bracelet2 from "../images/bracelet2.webp";
 import balloons from "../images/balloon.jfif";
 
 import flag1 from "../images/flags/hangingflagbanner.jpg";
@@ -84,14 +82,6 @@ price:700,
 image:cap,
 category:"Caps"
 },
-{
-id:6,
-name:"Bracelet",
-price:200,
-image:bracelet,
-category:"Bracelets"
-},
-
 
 //FLAGS
 
