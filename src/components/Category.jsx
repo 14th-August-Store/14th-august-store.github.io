@@ -12,7 +12,7 @@ import wristlet from "../images/wristlet.jpeg";
 import wristband from "../images/wristband.jpeg";
 import mask from "../images/mask.webp"; 
 import headband from "../images/headband.jpeg";
-import top from "../images/tops.jpeg";
+import top from "../images/tops.jfif";
 import bangle from "../images/bangles.png";
 import nail from "../images/nail.jpeg";
 import ring from "../images/ring.jpeg";
