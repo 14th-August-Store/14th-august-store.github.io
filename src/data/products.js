@@ -19,6 +19,7 @@ import wristlet4 from "../images/wristlet/greenband.jpg";
 
 import wristband1 from "../images/wristband/wristband.jpg";
 import wristband2 from "../images/wristband/flagcup.jpg";
+import sleeves from "../images/sleeves.jpg";
 
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
@@ -206,6 +207,14 @@ price: 150,
 image: wristband2,
 category:"Flag Band"
 },
+{
+id: 8,
+name: "14yh August Sleeves",
+price: 150,
+image: sleeves,
+category:"Flag Band"
+},
+
   
 //HORN
 
