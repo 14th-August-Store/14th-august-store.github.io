@@ -43,6 +43,10 @@ import headband2 from "../images/headbands/jevaypakistan.jpg";
 import headband3 from "../images/headbands/salampakistan.jpg";
 import headband4 from "../images/headbands/pakistan.jpg";
 
+import tops1 from "../images/tops/14augusttops.jpg";
+import tops2 from "../images/tops/tops.jpg";
+import tops3 from "../images/tops/flagtops.jpg";
+
 import bangle1 from "../images/bangles/10bangles.jpg";
 import bangle2 from "../images/bangles/12bangles.jpg";
 import bangle3 from "../images/bangles/15bangles.jpg";
@@ -350,6 +354,30 @@ image:headband4,
 category:"Head Bands"
 },
 
+//TOPS
+
+{
+id:15,
+name:"14th August Ear Pins",
+price:200,
+image:tops1,
+category:"Ear Pins"
+},
+{
+id:15,
+name:"Ear Pins",
+price:200,
+image:tops2,
+category:"Ear Pins"
+},
+{
+id:15,
+name:"Flag Ear Pins",
+price:200,
+image:tops3,
+category:"Ear Pins"
+},
+  
 //BANGLES
 
 {
