@@ -17,6 +17,11 @@ import band3 from "../images/band/lightgreenwristband.jpg";
 import band4 from "../images/band/wristband.jpg";
 import band5 from "../images/band/lightgreenband.jpg";
 
+import wristlet1 from "../images/wristlet/wristlet.jpg";
+import wristlet2 from "../images/wristlet/14augustband.jpg";
+import wristlet3 from "../images/wristlet/greenandwhiteband.jpg";
+import wristlet4 from "../images/wristlet/greenband.jpg";
+
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
 import horn3 from "../images/horn/colorfulhorn.jpg";
@@ -153,6 +158,37 @@ name: "Light Green Wrist Band",
 price: 150,
 image: band5,
 category:"Wrist Bands"
+},
+
+//WRISTLET
+
+{
+id: 8,
+name: "Wristlet",
+price: 150,
+image: wristlet1,
+category:"Wristlet"
+},
+{
+id: 8,
+name: "14th August Wristlet",
+price: 150,
+image: wristlet2,
+category:"Wristlet"
+},
+{
+id: 8,
+name: "Green And White Wristlet",
+price: 150,
+image: wristlet3,
+category:"Wristlet"
+},
+{
+id: 8,
+name: "Green Wristlet",
+price: 150,
+image: wristlet4,
+category:"Wristlet"
 },
 
   
