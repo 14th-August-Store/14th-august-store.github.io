@@ -9,8 +9,12 @@ import bracelet2 from "../images/bracelet2.webp";
 import baloons from "../images/baloons.webp";
 import balloons from "../images/balloon.jfif";
 import earring from "../images/earrings.png";
-import band from "../images/band.webp";
 
+import band1 from "../images/band/ilovepakistanband.jpg";
+import band2 from "../images/band/darkgreenwristband.jpg";
+import band3 from "../images/band/lightgreenwristband.jpg";
+import band4 from "../images/band/wristband.jpg";
+import band5 from "../images/band/lightgreenband.jpg";
 
 import horn1 from "../images/horn/minitrumpethorn.jpg";
 import horn2 from "../images/horn/noicemakerhorn.jpg";
@@ -106,6 +110,45 @@ image:baloons,
 category:"Balloons"
 },
 
+//WRIST BANDS
+
+{
+id: 8,
+name: "I Love Pakistan Wrist Band",
+price: 150,
+image: band1,
+category:"Wrist Bands"
+},
+{
+id: 8,
+name: "Dark Green And White Wrist Band",
+price: 150,
+image: band2,
+category:"Wrist Bands"
+},
+{
+id: 8,
+name: "Light Green And White Wrist Band",
+price: 150,
+image: band3,
+category:"Wrist Bands"
+},
+{
+id: 8,
+name: "Wrist Band",
+price: 150,
+image: band4,
+category:"Wrist Bands"
+},
+{
+id: 8,
+name: "Light Green Wrist Band",
+price: 150,
+image: band5,
+category:"Wrist Bands"
+},
+
+  
 //HORN
 
 {
@@ -366,14 +409,6 @@ name: "Ear Rings",
 price: 150,
 image: earring,
 category:"Ear Rings"
-},
-
-{
-id: 10,
-name: "Band",
-price: 150,
-image: band,
-category:"Bands"
 },
 
 {
