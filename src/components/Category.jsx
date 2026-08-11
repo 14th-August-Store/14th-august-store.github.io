@@ -31,31 +31,10 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
       name: "Badges",
       image: badge,
     },
-    {
-      name: "Balloons",
-      image: baloons,
-    },
-    {
-      name: "T-Shirts",
-      image: tshirt,
-    },
  
     {
       name: "Wrist Bands",
       image: band,
-    },
-
-    {
-      name: "Ear Rings",
-      image: earring,
-    },
-    {
-      name: "Caps",
-      image: cap,
-    },
-    {
-      name: "Bracelets",
-      image: bracelet,
     },
 
     {
@@ -67,7 +46,10 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
       name: "Masks",
       image: mask,
     },
-
+    {
+      name: "Balloons",
+      image: baloons,
+    },
    {
       name: "Head Bands",
       image: headband,
@@ -75,6 +57,10 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
      {
       name: "Bangles",
       image: bangle,
+    },
+       {
+      name: "Bracelets",
+      image: bracelet,
     },
         {
       name: "Clips",
@@ -84,6 +70,10 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
       name: "Hair Tie",
       image: poni,
     },
+       {
+      name: "Caps",
+      image: cap,
+    },
     {
       name: "Stickers",
       image: sticker,
@@ -91,7 +81,15 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
       {
       name: "Glasses",
       image: glasses,
-    }
+    },
+       {
+      name: "T-Shirts",
+      image: tshirt,
+    },
+           {
+      name: "Ear Rings",
+      image: earring,
+    },
   ];
 
   return (
