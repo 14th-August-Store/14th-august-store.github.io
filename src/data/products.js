@@ -97,28 +97,28 @@ category:"Caps"
 {
 id:1,
 name:"Hanging Flag Banner(Jhandiyan)",
-price:500,
+price:80,
 image:flag1,
 category:"Flags"
 },
 {
 id:1,
 name:"Bike Flag",
-price:500,
+price:50,
 image:flag2,
 category:"Flags"
 },
 {
 id:1,
-name:"Hanging Flag(Jhandiyan)",
-price:500,
+name:"Hanging Flag(Jhandiyan) bundle",
+price:100,
 image:flag3,
 category:"Flags"
 },
 {
 id:1,
 name:"White Rope For Jhandiyan",
-price:500,
+price:60,
 image:flag4,
 category:"Flags"
 },
@@ -128,35 +128,35 @@ category:"Flags"
 {
 id: 8,
 name: "I Love Pakistan Wrist Band",
-price: 150,
+price: 80,
 image: band1,
 category:"Wrist Bands"
 },
 {
 id: 8,
 name: "Dark Green And White Wrist Band",
-price: 150,
+price: 30,
 image: band2,
 category:"Wrist Bands"
 },
 {
 id: 8,
 name: "Light Green And White Wrist Band",
-price: 150,
+price: 30,
 image: band3,
 category:"Wrist Bands"
 },
 {
 id: 8,
 name: "Wrist Band",
-price: 150,
+price: 20,
 image: band4,
 category:"Wrist Bands"
 },
 {
 id: 8,
 name: "Light Green Wrist Band",
-price: 150,
+price: 20,
 image: band5,
 category:"Wrist Bands"
 },
@@ -165,29 +165,29 @@ category:"Wrist Bands"
 
 {
 id: 8,
-name: "Wristlet",
-price: 150,
+name: "Wristlet packet",
+price: 80,
 image: wristlet1,
 category:"Wristlet"
 },
 {
 id: 8,
 name: "14th August Wristlet",
-price: 150,
+price: 60,
 image: wristlet2,
 category:"Wristlet"
 },
 {
 id: 8,
 name: "Green And White Wristlet",
-price: 150,
+price: 60,
 image: wristlet3,
 category:"Wristlet"
 },
 {
 id: 8,
 name: "Green Wristlet",
-price: 150,
+price: 80,
 image: wristlet4,
 category:"Wristlet"
 },
@@ -197,21 +197,21 @@ category:"Wristlet"
 {
 id: 8,
 name: "Flag Wrist Band",
-price: 150,
+price: 30,
 image: wristband1,
 category:"Flag Band and Sleeves"
 },
 {
 id: 8,
 name: "Flag Cup Band",
-price: 150,
+price: 50,
 image: wristband2,
 category:"Flag Band and Sleeves"
 },
 {
 id: 8,
 name: "14th August Sleeves",
-price: 150,
+price: 100,
 image: sleeves,
 category:"Flag Band and Sleeves"
 },
@@ -222,14 +222,14 @@ category:"Flag Band and Sleeves"
 {
 id: 8,
 name: "Mini Trumpet",
-price: 150,
+price: 50,
 image: horn1,
 category:"Horn"
 },
 {
 id: 8,
 name: "Noice Maker",
-price: 150,
+price: 80,
 image: horn2,
 category:"Horn"
 },
@@ -243,14 +243,14 @@ category:"Horn"
 {
 id: 8,
 name: "14th August Whistle",
-price: 150,
+price: 50,
 image: horn4,
 category:"Horn"
 },
 {
 id: 8,
 name: "Balloon Pump",
-price: 150,
+price: 100,
 image: pump,
 category:"Horn"
 },
@@ -260,28 +260,28 @@ category:"Horn"
 {
 id: 4,
 name: "Fancy Badge",
-price: 150,
+price: 100,
 image: badge1,
 category:"Badges"
 },
 {
 id: 4,
 name: "Flag Badge",
-price: 150,
+price: 100,
 image: badge2,
 category:"Badges"
 },
 {
 id: 4,
 name: "Curly Badge",
-price: 150,
+price: 80,
 image: badge3,
 category:"Badges"
 },
 {
 id: 4,
 name: "Badge",
-price: 150,
+price: 80,
 image: badge4,
 category:"Badges"
 },
