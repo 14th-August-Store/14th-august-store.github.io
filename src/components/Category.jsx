@@ -8,17 +8,17 @@ import badge from "../images/circlebadge.jfif";
 import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
 import band from "../images/band.webp";
-import wristlet from "../images/wristlet/wristlet.jpg";
-import wristband from "../images/wristband/wristband.jpg";
+import wristlet from "../images/wristlet.jpeg";
+import wristband from "../images/wristband.jpeg";
 import mask from "../images/mask.webp"; 
-import headband from "../images/headbands/jevaypakistan.jpg";
-import top from "../images/tops/14augusttops.jpg";
+import headband from "../images/headband.jpeg";
+import top from "../images/tops.jpeg";
 import bangle from "../images/bangles.png";
-import nail from "../images/nails/nailpolish.jpg";
-import ring from "../images/ringsandcatcher/rings.jpg";
+import nail from "../images/nail.jpeg";
+import ring from "../images/ring.jpeg";
 import clip from "../images/clip.jfif";
-import poni from "../images/poni/hairtie.jpg";
-import sticker from "../images/stickers/dildilpakistansticker.jpg";
+import poni from "../images/hairtie.jpeg";
+import sticker from "../images/sticker.jpeg";
 import glitter from "../images/sheets/glitterbottle.jpg";
 
  
