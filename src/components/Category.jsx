@@ -16,6 +16,7 @@ import mask from "../images/mask.webp";
 import headband from "../images/headbands/jevaypakistan.jpg"; 
 import bangle from "../images/bangles.png";
 import clip from "../images/clips/clips.jpg";
+import sticker from "../images/stickers/dildilpakistansticker.jpg";
  
  function Category() {
      const [selectedCategory, setSelectedCategory] = useState("");
@@ -77,6 +78,10 @@ import clip from "../images/clips/clips.jpg";
         {
       name: "Clips",
       image: clip,
+    },
+           {
+      name: "Stickers",
+      image: sticker,
     },
       {
       name: "Glasses",
