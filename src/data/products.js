@@ -91,6 +91,13 @@ price:80,
 image:cap,
 category:"Caps"
 },
+{
+id:4,
+name:"Green Cap",
+price:80,
+image:cap,
+category:"Caps"
+},
 
 //FLAGS
 
