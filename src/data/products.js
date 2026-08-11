@@ -47,6 +47,9 @@ import clip2 from "../images/clips/greenandwhiteclips.jpg";
 import clip3 from "../images/clips/flowerclips.jpg";
 import clip4 from "../images/clips/glitterclips.jpg";
 
+import poni1 from "../images/poni/hairtie.jpg";
+import poni2 from "../images/poni/flowerhairtie.jpg";
+
 import sticker1 from "../images/stickers/dildilpakistansticker.jpg";
 import sticker2 from "../images/stickers/jeevaypakistansticker.jpg";
 
@@ -312,6 +315,23 @@ name: "Glitter Clips",
 price: 150,
 image: clip4,
 category:"Clips"
+},
+
+//HAIRTIE
+
+{
+id: 9,
+name: "Hair Tie",
+price: 150,
+image: poni1,
+category:"Hair Tie"
+},
+{
+id: 9,
+name: "Flower Hair Tie",
+price: 150,
+image: poni2,
+category:"Hair Tie"
 },
 
 //STICKERS
