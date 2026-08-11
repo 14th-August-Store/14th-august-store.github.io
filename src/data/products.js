@@ -1,4 +1,3 @@
-import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
 import glasses3 from "../images/glasses.webp";
 import glasses from "../images/glasses2.webp";
@@ -6,7 +5,6 @@ import glasses2 from "../images/glasses3.png";
 import bracelet from "../images/bracelet.png";
 import bracelet2 from "../images/bracelet2.webp";
 import balloons from "../images/balloon.jfif";
-import earring from "../images/earrings.png";
 
 import flag1 from "../images/flags/hangingflagbanner.jpg";
 import flag2 from "../images/flags/bikeflag.jpg";
@@ -64,14 +62,6 @@ import sticker2 from "../images/stickers/jeevaypakistansticker.jpg";
 
 const products = [
   
-{
-id:2,
-name:"14 August T-Shirt",
-price:1200,
-image:tshirt,
-category:"T-Shirts"
-},
-
 {
 id:3,
 name:"Green Cap",
@@ -419,14 +409,7 @@ category:"Stickers"
 
 
 
-  
-{
-id: 9,
-name: "Ear Rings",
-price: 150,
-image: earring,
-category:"Ear Rings"
-},
+
 
 {
 id:7,
