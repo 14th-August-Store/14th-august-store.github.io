@@ -41,7 +41,7 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
     },
  
     {
-      name: "Bands",
+      name: "Wrist Bands",
       image: band,
     },
 
