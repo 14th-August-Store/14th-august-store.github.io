@@ -1,7 +1,4 @@
 import cap from "../images/caps.jpg";
-import glasses3 from "../images/glasses.webp";
-import glasses from "../images/glasses2.webp";
-import glasses2 from "../images/glasses3.png";
 import bracelet from "../images/bracelet.png";
 import bracelet2 from "../images/bracelet2.webp";
 import balloons from "../images/balloon.jfif";
@@ -87,14 +84,6 @@ price:700,
 image:cap,
 category:"Caps"
 },
-
-{id:5,
-name:"14th August Glasses",
-price:300,
-image:glasses,
-category:"Glasses"
-},
-
 {
 id:6,
 name:"Bracelet",
@@ -542,19 +531,7 @@ name:"Balloons",
 price:700,
 image:balloons,
 category:"Balloons"
-},
-
-{id:16,
-name:"14th August Glasses",
-price:300,
-image:glasses2,
-category:"Glasses"},
-
-{id:17,
-name:"14th August Glasses",
-price:300,
-image:glasses3,
-category:"Glasses"},   
+}, 
 ];
 
 export default products;
