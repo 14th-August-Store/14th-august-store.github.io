@@ -33,6 +33,7 @@ import badge3 from "../images/badges/curlybadge.jpg";
 import badge4 from "../images/badges/badge.jpg";
 import badge5 from "../images/badges/rubberbadge.jpg";
 import badge6 from "../images/badges/pakistanbadge.jpg";
+import badge7 from "../images/badges/ledbadge.jpg";
 
 import mask1 from "../images/masks/14augustmask.jpg";
 import mask2 from "../images/masks/azontomask.jpg";
@@ -293,9 +294,16 @@ category:"Badges"
 },
 {
 id: 4,
-name: "LED Badge",
+name: "LED Rubber Badge",
 price: 150,
 image: badge6,
+category:"Badges"
+},
+{
+id: 4,
+name: "LED Badge",
+price: 150,
+image: badge7,
 category:"Badges"
 },
 
