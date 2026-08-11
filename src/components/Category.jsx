@@ -19,6 +19,8 @@ import ring from "../images/ringsandcatcher/rings.jpg";
 import clip from "../images/clips/clips.jpg";
 import poni from "../images/poni/hairtie.jpg";
 import sticker from "../images/stickers/dildilpakistansticker.jpg";
+import glitter from "../images/sheets/glitterbottle.jpg";
+
  
  function Category() {
      const [selectedCategory, setSelectedCategory] = useState("");
@@ -92,6 +94,11 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
     {
       name: "Stickers",
       image: sticker,
+    },
+
+    {
+      name: "Clay, Glitters And Sheets",
+      image: glitter,
     },
       {
       name: "Glasses",
