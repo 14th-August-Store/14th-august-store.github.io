@@ -3,14 +3,12 @@ import Products from "../components/Products";
 import "../css/home.css";
  
 import flag from "../images/flags.jfif";
-import tshirt from "../images/tshirt.jpg";
 import cap from "../images/caps.jpg";
 import badge from "../images/circlebadge.jfif";
 import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
 import glasses from "../images/glasses3.png";
 import bracelet from "../images/bracelet.png";
-import earring from "../images/earrings.png";
 import band from "../images/band.webp";
 import mask from "../images/mask.webp"; 
 import headband from "../images/headbands/jevaypakistan.jpg"; 
@@ -81,14 +79,6 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
       {
       name: "Glasses",
       image: glasses,
-    },
-       {
-      name: "T-Shirts",
-      image: tshirt,
-    },
-           {
-      name: "Ear Rings",
-      image: earring,
     },
   ];
 
