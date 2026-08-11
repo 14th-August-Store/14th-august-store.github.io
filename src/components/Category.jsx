@@ -10,6 +10,7 @@ import baloons from "../images/baloons.webp";
 import glasses from "../images/glasses3.png";
 import bracelet from "../images/bracelet2.webp";
 import band from "../images/band.webp";
+import wristlet from "../images/wristlet/wristlet.jpg";
 import mask from "../images/mask.webp"; 
 import headband from "../images/headbands/jevaypakistan.jpg"; 
 import bangle from "../images/bangles.png";
@@ -33,6 +34,11 @@ import sticker from "../images/stickers/dildilpakistansticker.jpg";
     {
       name: "Wrist Bands",
       image: band,
+    },
+
+       {
+      name: "Wristlet",
+      image: wristlet,
     },
 
     {
