@@ -7,7 +7,6 @@ import cap from "../images/caps.jpg";
 import badge from "../images/circlebadge.jfif";
 import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
-import glasses from "../images/glasses3.png";
 import bracelet from "../images/bracelet2.webp";
 import band from "../images/band.webp";
 import wristlet from "../images/wristlet/wristlet.jpg";
@@ -99,11 +98,7 @@ import glitter from "../images/sheets/glitterbottle.jpg";
     {
       name: "Clay, Glitters And Sheets",
       image: glitter,
-    },
-      {
-      name: "Glasses",
-      image: glasses,
-    },
+    }
   ];
 
   return (
