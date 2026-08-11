@@ -3,7 +3,7 @@ import Products from "../components/Products";
 import "../css/home.css";
  
 import flag from "../images/flags.jfif";
-import cap from "../images/caps.jpg";
+import cap from "../images/capes.jfif";
 import badge from "../images/circlebadge.jfif";
 import horn from "../images/horn.png";
 import baloons from "../images/baloons.webp";
@@ -19,7 +19,7 @@ import ring from "../images/ring.jfif";
 import clip from "../images/clip.jfif";
 import poni from "../images/hairtie.jfif";
 import sticker from "../images/sticker.jfif";
-import glitter from "../images/sheets/glitterbottle.jpg";
+import glitter from "../images/sheets/silverglittersheet.jpg";
 
  
  function Category() {
