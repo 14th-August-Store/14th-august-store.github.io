@@ -87,7 +87,7 @@ const products = [
 {
 id:3,
 name:"Green Cap",
-price:700,
+price:80,
 image:cap,
 category:"Caps"
 },
@@ -288,14 +288,14 @@ category:"Badges"
 {
 id: 4,
 name: "Pakistan Badge",
-price: 150,
+price: 80,
 image: badge6,
 category:"Badges"
 },
 {
 id: 4,
 name: "LED Rubber Badge",
-price: 150,
+price: 100,
 image: badge5,
 category:"Badges"
 },
@@ -314,14 +314,14 @@ category:"Badges"
 {
 id: 19,
 name: "14th August Mask",
-price: 150,
+price: 60,
 image: mask1,
 category:"Masks"
 },
 {
 id: 19,
 name: "Azonto Mask",
-price: 150,
+price: 100,
 image: mask2,
 category:"Masks"
 },
@@ -345,28 +345,28 @@ category:"Masks"
 {
 id:15,
 name:"Dil Dil Pakistan Band",
-price:200,
+price:80,
 image:headband1,
 category:"Head Bands"
 },
 {
 id:15,
 name:"Jevay Pakistan Band",
-price:200,
+price:80,
 image:headband2,
 category:"Head Bands"
 },
   {
 id:15,
 name:"Salam Pakistan Band",
-price:200,
+price:50,
 image:headband3,
 category:"Head Bands"
 },
   {
 id:15,
 name:"Pakistan Band",
-price:200,
+price:50,
 image:headband4,
 category:"Head Bands"
 },
@@ -376,21 +376,21 @@ category:"Head Bands"
 {
 id:15,
 name:"14th August Ear Pins",
-price:200,
+price:60,
 image:tops1,
 category:"Ear Pins"
 },
 {
 id:15,
 name:"Ear Pins",
-price:200,
+price:60,
 image:tops2,
 category:"Ear Pins"
 },
 {
 id:15,
 name:"Flag Ear Pins",
-price:200,
+price:80,
 image:tops3,
 category:"Ear Pins"
 },
@@ -400,42 +400,42 @@ category:"Ear Pins"
 {
 id:15,
 name:"14th August Bangles(10)",
-price:200,
+price:100,
 image:bangle1,
 category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(12)",
-price:200,
+price:100,
 image:bangle2,
 category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(15)",
-price:200,
+price:150,
 image:bangle3,
 category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(16)",
-price:200,
+price:150,
 image:bangle4,
 category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(18)",
-price:200,
+price:150,
 image:bangle5,
 category:"Bangles"
 },
 {
 id:15,
 name:"14th August Bangles(20)",
-price:200,
+price:150,
 image:bangle6,
 category:"Bangles"
 },
@@ -445,14 +445,14 @@ category:"Bangles"
 {
 id:15,
 name:"14th August Nails",
-price:200,
+price:50,
 image:nail1,
 category:"Nails And Nail Polish"
 },
 {
 id:15,
-name:"14th August Nail Polish",
-price:200,
+name:"14th August Nail Polish *1",
+price:50,
 image:nail2,
 category:"Nails And Nail Polish"
 },
@@ -461,15 +461,15 @@ category:"Nails And Nail Polish"
 
 {
 id:15,
-name:"14th August Rings",
-price:200,
+name:"14th August Rings *1",
+price:50,
 image:ring,
 category:"Rings And Catcher"
 },
 {
 id:15,
-name:"14th August Hair Catcher",
-price:200,
+name:"14th August Hair Catcher *1",
+price:60,
 image:catcher,
 category:"Rings And Catcher"
 },
@@ -479,28 +479,28 @@ category:"Rings And Catcher"
 {
 id: 9,
 name: "14th August Clips",
-price: 150,
+price: 100,
 image: clip1,
 category:"Clips"
 },
 {
 id: 9,
 name: "Green And White Clips",
-price: 150,
+price: 100,
 image: clip2,
 category:"Clips"
 },
 {
 id: 9,
 name: "Flower Clips",
-price: 150,
+price: 80,
 image: clip3,
 category:"Clips"
 },
 {
 id: 9,
 name: "Glitter Clips",
-price: 150,
+price: 80,
 image: clip4,
 category:"Clips"
 },
@@ -510,14 +510,14 @@ category:"Clips"
 {
 id: 9,
 name: "Hair Tie",
-price: 150,
+price: 50,
 image: poni1,
 category:"Hair Tie"
 },
 {
 id: 9,
 name: "Flower Hair Tie",
-price: 150,
+price: 60,
 image: poni2,
 category:"Hair Tie"
 },
@@ -527,14 +527,14 @@ category:"Hair Tie"
 {
 id: 9,
 name: "Dil Dil Pakistan Sticker",
-price: 150,
+price: 10,
 image: sticker1,
 category:"Stickers"
 },
 {
 id: 9,
 name: "Jevay Pakistan Sticker",
-price: 150,
+price: 10,
 image: sticker2,
 category:"Stickers"
 },
@@ -544,14 +544,14 @@ category:"Stickers"
 {
 id: 9,
 name: "14th August Glitter Bottle",
-price: 150,
+price: 30,
 image: glitter,
 category:"Clay, Glitters And Sheets"
 },
 {
 id: 9,
 name: "14th August Clay",
-price: 150,
+price: 100,
 image: clay,
 category:"Clay, Glitters And Sheets"
 },
@@ -565,14 +565,14 @@ category:"Clay, Glitters And Sheets"
 {
 id: 9,
 name: "Green Glitter Sheet",
-price: 150,
+price: 40,
 image: sheet2,
 category:"Clay, Glitters And Sheets"
 },
 {
 id: 9,
 name: "White Glitter Sheet",
-price: 150,
+price: 40,
 image: sheet3,
 category:"Clay, Glitters And Sheets"
 },
@@ -581,14 +581,14 @@ category:"Clay, Glitters And Sheets"
 {
 id:7,
 name:"Balloons",
-price:700,
+price: 5,
 image:balloons,
 category:"Balloons"
 }, 
 {
 id: 8,
 name: "Balloon Pump",
-price: 150,
+price: 100,
 image: pump,
 category:"Balloons"
 },
