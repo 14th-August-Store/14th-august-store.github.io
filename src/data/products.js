@@ -85,14 +85,14 @@ import sheet3 from "../images/sheets/whiteglittersheet.jpg";
 const products = [
   
 {
-id:3,
+id:1,
 name:"Green Cap",
 price:80,
 image:cap,
 category:"Caps"
 },
 {
-id:4,
+id:2,
 name:"Green Cap",
 price:80,
 image:cap,
@@ -102,28 +102,28 @@ category:"Caps"
 //FLAGS
 
 {
-id:1,
+id:3,
 name:"Hanging Flag Banner(Jhandiyan)",
 price:80,
 image:flag1,
 category:"Flags"
 },
 {
-id:1,
+id:4,
 name:"Bike Flag",
 price:50,
 image:flag2,
 category:"Flags"
 },
 {
-id:1,
+id:5,
 name:"Hanging Flag(Jhandiyan) bundle",
 price:100,
 image:flag3,
 category:"Flags"
 },
 {
-id:1,
+id:6,
 name:"White Rope For Jhandiyan",
 price:60,
 image:flag4,
@@ -133,35 +133,35 @@ category:"Flags"
 //WRIST BANDS
 
 {
-id: 8,
+id:7,
 name: "I Love Pakistan Wrist Band",
 price: 80,
 image: band1,
 category:"Wrist Bands"
 },
 {
-id: 8,
+id:8,
 name: "Dark Green And White Wrist Band",
 price: 30,
 image: band2,
 category:"Wrist Bands"
 },
 {
-id: 8,
+id: 9,
 name: "Light Green And White Wrist Band",
 price: 30,
 image: band3,
 category:"Wrist Bands"
 },
 {
-id: 8,
+id:10,
 name: "Wrist Band",
 price: 20,
 image: band4,
 category:"Wrist Bands"
 },
 {
-id: 8,
+id: 11,
 name: "Light Green Wrist Band",
 price: 20,
 image: band5,
@@ -171,28 +171,28 @@ category:"Wrist Bands"
 //WRISTLET
 
 {
-id: 8,
+id: 12,
 name: "Wristlet packet",
 price: 80,
 image: wristlet1,
 category:"Wristlet"
 },
 {
-id: 8,
+id: 13,
 name: "14th August Wristlet",
 price: 60,
 image: wristlet2,
 category:"Wristlet"
 },
 {
-id: 8,
+id: 14,
 name: "Green And White Wristlet",
 price: 60,
 image: wristlet3,
 category:"Wristlet"
 },
 {
-id: 8,
+id: 15,
 name: "Green Wristlet",
 price: 80,
 image: wristlet4,
@@ -202,21 +202,21 @@ category:"Wristlet"
 //WRIST BAND 
 
 {
-id: 8,
+id: 16,
 name: "Flag Wrist Band",
 price: 30,
 image: wristband1,
 category:"Flag Band and Sleeves"
 },
 {
-id: 8,
+id: 17,
 name: "Flag Cup Band",
 price: 50,
 image: wristband2,
 category:"Flag Band and Sleeves"
 },
 {
-id: 8,
+id: 18,
 name: "14th August Sleeves",
 price: 100,
 image: sleeves,
@@ -227,35 +227,35 @@ category:"Flag Band and Sleeves"
 //HORN
 
 {
-id: 8,
+id:19,
 name: "Mini Trumpet",
 price: 50,
 image: horn1,
 category:"Horn"
 },
 {
-id: 8,
+id:20,
 name: "Noice Maker",
 price: 80,
 image: horn2,
 category:"Horn"
 },
 {
-id: 8,
+id: 21,
 name: "Colorfull Horn",
 price: 150,
 image: horn3,
 category:"Horn"
 },
 {
-id: 8,
+id: 22,
 name: "14th August Whistle",
 price: 50,
 image: horn4,
 category:"Horn"
 },
 {
-id: 8,
+id: 23,
 name: "Balloon Pump",
 price: 100,
 image: pump,
@@ -265,49 +265,49 @@ category:"Horn"
 //BADGE
 
 {
-id: 4,
+id: 24,
 name: "Fancy Badge",
 price: 100,
 image: badge1,
 category:"Badges"
 },
 {
-id: 4,
+id: 25,
 name: "Flag Badge",
 price: 100,
 image: badge2,
 category:"Badges"
 },
 {
-id: 4,
+id: 26,
 name: "Curly Badge",
 price: 80,
 image: badge3,
 category:"Badges"
 },
 {
-id: 4,
+id: 27,
 name: "Badge",
 price: 80,
 image: badge4,
 category:"Badges"
 },
 {
-id: 4,
+id: 28,
 name: "Pakistan Badge",
 price: 80,
 image: badge6,
 category:"Badges"
 },
 {
-id: 4,
+id: 29,
 name: "LED Rubber Badge",
 price: 100,
 image: badge5,
 category:"Badges"
 },
 {
-id: 4,
+id: 30,
 name: "LED Badge",
 price: 150,
 image: badge7,
@@ -319,28 +319,28 @@ category:"Badges"
 //MASKS
 
 {
-id: 19,
+id: 31,
 name: "14th August Mask",
 price: 60,
 image: mask1,
 category:"Masks"
 },
 {
-id: 19,
+id: 32,
 name: "Azonto Mask",
 price: 100,
 image: mask2,
 category:"Masks"
 },
 {
-id: 19,
+id: 33,
 name: "Cartoon Face Mask",
 price: 150,
 image: mask3,
 category:"Masks"
 },
 {
-id: 19,
+id: 34,
 name: "Masquerade Mask",
 price: 150,
 image: mask4,
@@ -350,28 +350,28 @@ category:"Masks"
 //HEADBANDS
 
 {
-id:15,
+id:35,
 name:"Dil Dil Pakistan Band",
 price:80,
 image:headband1,
 category:"Head Bands"
 },
 {
-id:15,
+id:36,
 name:"Jevay Pakistan Band",
 price:80,
 image:headband2,
 category:"Head Bands"
 },
   {
-id:15,
+id:37,
 name:"Salam Pakistan Band",
 price:50,
 image:headband3,
 category:"Head Bands"
 },
   {
-id:15,
+id:38,
 name:"Pakistan Band",
 price:50,
 image:headband4,
@@ -381,21 +381,21 @@ category:"Head Bands"
 //TOPS
 
 {
-id:15,
+id:39,
 name:"14th August Ear Pins",
 price:60,
 image:tops1,
 category:"Ear Pins"
 },
 {
-id:15,
+id:40,
 name:"Ear Pins",
 price:60,
 image:tops2,
 category:"Ear Pins"
 },
 {
-id:15,
+id:41,
 name:"Flag Ear Pins",
 price:80,
 image:tops3,
@@ -405,42 +405,42 @@ category:"Ear Pins"
 //BANGLES
 
 {
-id:15,
+id:42,
 name:"14th August Bangles(10)",
 price:100,
 image:bangle1,
 category:"Bangles"
 },
 {
-id:15,
+id:43,
 name:"14th August Bangles(12)",
 price:100,
 image:bangle2,
 category:"Bangles"
 },
 {
-id:15,
+id:44,
 name:"14th August Bangles(15)",
 price:150,
 image:bangle3,
 category:"Bangles"
 },
 {
-id:15,
+id:45,
 name:"14th August Bangles(16)",
 price:150,
 image:bangle4,
 category:"Bangles"
 },
 {
-id:15,
+id:46,
 name:"14th August Bangles(18)",
 price:150,
 image:bangle5,
 category:"Bangles"
 },
 {
-id:15,
+id:47,
 name:"14th August Bangles(20)",
 price:150,
 image:bangle6,
@@ -450,14 +450,14 @@ category:"Bangles"
 //NAILS
 
 {
-id:15,
+id:48,
 name:"14th August Nails",
 price:50,
 image:nail1,
 category:"Nails And Nail Polish"
 },
 {
-id:15,
+id:49,
 name:"14th August Nail Polish *1",
 price:50,
 image:nail2,
@@ -467,14 +467,14 @@ category:"Nails And Nail Polish"
 //RINGS AND CATCHER
 
 {
-id:15,
+id:50,
 name:"14th August Rings *1",
 price:50,
 image:ring,
 category:"Rings And Catcher"
 },
 {
-id:15,
+id:51,
 name:"14th August Hair Catcher *1",
 price:60,
 image:catcher,
@@ -484,28 +484,28 @@ category:"Rings And Catcher"
 //CLIPS
   
 {
-id: 9,
+id: 52,
 name: "14th August Clips",
 price: 100,
 image: clip1,
 category:"Clips"
 },
 {
-id: 9,
+id: 53,
 name: "Green And White Clips",
 price: 100,
 image: clip2,
 category:"Clips"
 },
 {
-id: 9,
+id: 54,
 name: "Flower Clips",
 price: 80,
 image: clip3,
 category:"Clips"
 },
 {
-id: 9,
+id: 55,
 name: "Glitter Clips",
 price: 80,
 image: clip4,
@@ -515,14 +515,14 @@ category:"Clips"
 //HAIRTIE
 
 {
-id: 9,
+id: 56,
 name: "Hair Tie",
 price: 50,
 image: poni1,
 category:"Hair Tie"
 },
 {
-id: 9,
+id: 57,
 name: "Flower Hair Tie",
 price: 60,
 image: poni2,
@@ -532,14 +532,14 @@ category:"Hair Tie"
 //STICKERS
 
 {
-id: 9,
+id: 58,
 name: "Dil Dil Pakistan Sticker",
 price: 10,
 image: sticker1,
 category:"Stickers"
 },
 {
-id: 9,
+id: 59,
 name: "Jevay Pakistan Sticker",
 price: 10,
 image: sticker2,
@@ -549,35 +549,35 @@ category:"Stickers"
 //SHEETS
 
 {
-id: 9,
+id: 60,
 name: "14th August Glitter Bottle",
 price: 30,
 image: glitter,
 category:"Clay, Glitters And Sheets"
 },
 {
-id: 9,
+id: 61,
 name: "14th August Clay",
 price: 100,
 image: clay,
 category:"Clay, Glitters And Sheets"
 },
 {
-id: 9,
+id: 62,
 name: "Silver Glitter Sheet",
 price: 150,
 image: sheet1,
 category:"Clay, Glitters And Sheets"
 },
 {
-id: 9,
+id: 63,
 name: "Green Glitter Sheet",
 price: 40,
 image: sheet2,
 category:"Clay, Glitters And Sheets"
 },
 {
-id: 9,
+id: 64,
 name: "White Glitter Sheet",
 price: 40,
 image: sheet3,
@@ -586,14 +586,14 @@ category:"Clay, Glitters And Sheets"
 
 
 {
-id:7,
+id:65,
 name:"Balloons",
 price: 5,
 image:balloons,
 category:"Balloons"
 }, 
 {
-id: 8,
+id: 66,
 name: "Balloon Pump",
 price: 100,
 image: pump,
